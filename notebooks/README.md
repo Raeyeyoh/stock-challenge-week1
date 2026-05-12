@@ -35,3 +35,13 @@ Certain publishers dominate financial reporting.
 Market sentiment and news activity may influence investor behavior.
 Technical indicators reveal momentum shifts and volatility trends.
 Combining sentiment analysis with stock indicators can support predictive financial modeling.
+
+task-3
+sentiment correlation
+Key Insights
+
+1. Financial news sentiment may influence short-term market behavior.
+2. Positive headlines tend to align with improved stock performance.
+3. The relationship between sentiment and returns is generally weak to moderate.
+4. Technical indicators and sentiment analysis can be combined for stronger predictive models.
+5. Financial markets are affected by multiple external factors beyond news sentiment alone.
